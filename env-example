@@ -26,7 +26,7 @@ PHP_SERVER=8.1
 
 # httpd settings(using nginx)
 HTTPD_FLAVOUR=alpine
-HTTPD_SERVER=nginx-stable
+HTTPD_SERVER=apache-2.4
 
 # mysql database settings
 MYSQL_SERVER=mysql-8.0
